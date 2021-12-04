@@ -1,6 +1,6 @@
 Days of CSS
 
-Day 1 : CSS Variables f
+Day 1 : CSS Variables <br>
 Day 2 : Buttons
 Day 3 : Input Boxes
 Day 4 : Radio Buttons
